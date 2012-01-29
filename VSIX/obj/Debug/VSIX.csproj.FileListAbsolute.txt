@@ -1,0 +1,8 @@
+C:\git\FSharpWpfEmptyTemplate\VSIX\bin\Debug\MicrosoftPublicLicense.txt
+C:\git\FSharpWpfEmptyTemplate\VSIX\bin\Debug\ProjectTemplates\WPF\FSharpWpfEmpty.zip
+C:\git\FSharpWpfEmptyTemplate\VSIX\bin\Debug\extension.vsixmanifest
+C:\git\FSharpWpfEmptyTemplate\VSIX\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpWpfEmptyTemplate\VSIX\obj\Debug\extension.vsixmanifest
+C:\git\FSharpWpfEmptyTemplate\VSIX\bin\Debug\FSharpWpfEmpty.vsix
+C:\git\FSharpWpfEmptyTemplate\VSIX\obj\Debug\FSharpWpfEmpty.dll
+C:\git\FSharpWpfEmptyTemplate\VSIX\obj\Debug\FSharpWpfEmpty.pdb
