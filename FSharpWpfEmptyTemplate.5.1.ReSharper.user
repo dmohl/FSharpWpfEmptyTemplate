@@ -7,7 +7,9 @@
     </boolean>
   </SettingsComponent>
   <RecentFiles>
-    <RecentFiles />
+    <RecentFiles>
+      <File id="A6A08D4F-2801-4D79-80E0-93BBFD45ABEB/f:TemplateWizard.fs" caret="65" fromTop="4" />
+    </RecentFiles>
     <RecentEdits />
   </RecentFiles>
   <NAntValidationSettings>

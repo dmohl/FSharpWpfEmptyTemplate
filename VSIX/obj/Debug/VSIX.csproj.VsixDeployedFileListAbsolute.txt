@@ -7,3 +7,37 @@ C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.2\\extension.vsixmanifest
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.2\\MicrosoftPublicLicense.txt
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.2\ProjectTemplates\WPF\\FSharpWpfEmpty.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\FsWpfEmptyTemplateWizard.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\extension.vsixmanifest
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\ProjectTemplates\WPF\\FSharpWpfEmpty.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\EnvDTE.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\EnvDTE80.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\Microsoft.VisualStudio.Shell.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\NuGet.Core.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\NuGet.VisualStudio.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\System.ComponentModel.DataAnnotations.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\System.Xml.Linq.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\System.Runtime.Caching.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\System.Data.Services.Client.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\WindowsBase.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\System.Xml.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\System.Security.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\Microsoft.CSharp.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\System.Runtime.Serialization.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\System.ComponentModel.Composition.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\stdole.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\System.Design.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\System.Drawing.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\System.Drawing.Design.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\Microsoft.MSXML.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Empty Windows App (WPF)\1.3\\FsWpfEmptyTemplateWizard.pdb

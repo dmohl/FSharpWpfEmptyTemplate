@@ -1,0 +1,17 @@
+C:\git\FSharpWpfEmptyTemplate\FsWpfEmptyTemplateWizard\bin\Debug\FsWpfEmptyTemplateWizard.XML
+C:\git\FSharpWpfEmptyTemplate\FsWpfEmptyTemplateWizard\bin\Debug\FsWpfEmptyTemplateWizard.dll
+C:\git\FSharpWpfEmptyTemplate\FsWpfEmptyTemplateWizard\bin\Debug\FsWpfEmptyTemplateWizard.pdb
+C:\git\FSharpWpfEmptyTemplate\FsWpfEmptyTemplateWizard\bin\Debug\EnvDTE.dll
+C:\git\FSharpWpfEmptyTemplate\FsWpfEmptyTemplateWizard\bin\Debug\EnvDTE80.dll
+C:\git\FSharpWpfEmptyTemplate\FsWpfEmptyTemplateWizard\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\git\FSharpWpfEmptyTemplate\FsWpfEmptyTemplateWizard\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\git\FSharpWpfEmptyTemplate\FsWpfEmptyTemplateWizard\bin\Debug\Microsoft.VisualStudio.Shell.dll
+C:\git\FSharpWpfEmptyTemplate\FsWpfEmptyTemplateWizard\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\git\FSharpWpfEmptyTemplate\FsWpfEmptyTemplateWizard\bin\Debug\NuGet.Core.dll
+C:\git\FSharpWpfEmptyTemplate\FsWpfEmptyTemplateWizard\bin\Debug\NuGet.VisualStudio.dll
+C:\git\FSharpWpfEmptyTemplate\FsWpfEmptyTemplateWizard\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\git\FSharpWpfEmptyTemplate\FsWpfEmptyTemplateWizard\bin\Debug\Microsoft.VisualStudio.Shell.xml
+C:\git\FSharpWpfEmptyTemplate\FsWpfEmptyTemplateWizard\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\git\FSharpWpfEmptyTemplate\FsWpfEmptyTemplateWizard\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpWpfEmptyTemplate\FsWpfEmptyTemplateWizard\obj\Debug\FsWpfEmptyTemplateWizard.dll
+C:\git\FSharpWpfEmptyTemplate\FsWpfEmptyTemplateWizard\obj\Debug\FsWpfEmptyTemplateWizard.pdb

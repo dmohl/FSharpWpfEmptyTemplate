@@ -6,3 +6,8 @@ C:\git\FSharpWpfEmptyTemplate\VSIX\obj\Debug\extension.vsixmanifest
 C:\git\FSharpWpfEmptyTemplate\VSIX\bin\Debug\FSharpWpfEmpty.vsix
 C:\git\FSharpWpfEmptyTemplate\VSIX\obj\Debug\FSharpWpfEmpty.dll
 C:\git\FSharpWpfEmptyTemplate\VSIX\obj\Debug\FSharpWpfEmpty.pdb
+C:\git\FSharpWpfEmptyTemplate\VSIX\bin\Debug\FsWpfEmptyTemplateWizard.dll
+C:\git\FSharpWpfEmptyTemplate\VSIX\bin\Debug\NuGet.VisualStudio.dll
+C:\git\FSharpWpfEmptyTemplate\VSIX\bin\Debug\NuGet.Core.dll
+C:\git\FSharpWpfEmptyTemplate\VSIX\bin\Debug\FsWpfEmptyTemplateWizard.pdb
+C:\git\FSharpWpfEmptyTemplate\VSIX\bin\Debug\FsWpfEmptyTemplateWizard.xml
