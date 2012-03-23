@@ -29,8 +29,7 @@ type TemplateWizard() =
                                      Microsoft.VisualStudio.OLE.Interop.IServiceProvider)
             this.destinationPath <- replacementsDictionary.["$destinationdirectory$"]
             this.safeProjectName <- replacementsDictionary.["$safeprojectname$"]
-            // TODO: Figure out how to figure this out.
-            this.targetFramework <- Double.Parse replacementsDictionary.["$targetframeworkversion$"];
+            this.targetFramework <- Double.Parse replacementsDictionary.["$targetframeworkversion$"]
         member this.ProjectFinishedGenerating project = "Not Implemented" |> ignore
         member this.ProjectItemFinishedGenerating projectItem = "Not Implemented" |> ignore
         member this.ShouldAddProjectItem filePath = true
@@ -48,8 +47,8 @@ type TemplateWizard() =
                         this.solution.AddFromTemplate(path, Path.Combine(this.destinationPath, projectName), 
                             projectName, false) |> ignore
                 
-                    match this.targetFramework with
-                    | x when x > 4. -> 
+                    match this.targetFramework, templatePath.Contains(@"\VisualStudio\11") with
+                    | x, true | x, _ when x > 4. -> 
                         AddProject "Adding the F# project..." 
                             (Path.Combine("App", "App.vstemplate")) this.safeProjectName
                         let projects = BuildProjectMap (this.dte.Solution.Projects)
