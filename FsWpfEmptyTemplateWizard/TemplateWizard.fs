@@ -47,14 +47,14 @@ type TemplateWizard() =
                         this.solution.AddFromTemplate(path, Path.Combine(this.destinationPath, projectName), 
                             projectName, false) |> ignore
                 
-                    match this.targetFramework, templatePath.Contains(@"\VisualStudio\11") with
-                    | x, true | x, _ when x > 4. -> 
+                    match (this.targetFramework > 4.), templatePath.ToLower().Contains(@"\visualstudio\11") with
+                    | true, _ | _, true -> 
                         AddProject "Adding the F# project..." 
                             (Path.Combine("App", "App.vstemplate")) this.safeProjectName
                         let projects = BuildProjectMap (this.dte.Solution.Projects)
                         try
                             this.dte2.StatusBar.Text <- "Adding NuGet packages..."
-                            (projects.TryFind this.safeProjectName).Value |> InstallPackages this.serviceProvider (templatePath.Replace("FSMVC3.vstemplate", ""))
+                            (projects.TryFind this.safeProjectName).Value |> InstallPackages this.serviceProvider (templatePath.Replace(templateName + ".vstemplate", ""))
                             <| [("FSharpx.TypeProviders", "1.5.120322")]
                         with
                         | ex -> let msg = ex

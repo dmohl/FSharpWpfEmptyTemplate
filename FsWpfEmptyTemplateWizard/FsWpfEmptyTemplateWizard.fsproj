@@ -34,7 +34,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
-    <Reference Include="FSharp.Core" />
+    <Reference Include="FSharp.Core">
+      <Private>False</Private>
+    </Reference>
     <Reference Include="NuGet.Core">
       <HintPath>..\lib\NuGet.Core.dll</HintPath>
       <Private>True</Private>
