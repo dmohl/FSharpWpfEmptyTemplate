@@ -11,3 +11,17 @@ C:\git\FSharpWpfEmptyTemplate\VSIX\bin\Debug\NuGet.VisualStudio.dll
 C:\git\FSharpWpfEmptyTemplate\VSIX\bin\Debug\NuGet.Core.dll
 C:\git\FSharpWpfEmptyTemplate\VSIX\bin\Debug\FsWpfEmptyTemplateWizard.pdb
 C:\git\FSharpWpfEmptyTemplate\VSIX\bin\Debug\FsWpfEmptyTemplateWizard.xml
+C:\Users\dmohl\Documents\GitHub\FSharpWpfEmptyTemplate\VSIX\bin\Debug\MicrosoftPublicLicense.txt
+C:\Users\dmohl\Documents\GitHub\FSharpWpfEmptyTemplate\VSIX\bin\Debug\ProjectTemplates\WPF\FSharpWpfEmpty.zip
+C:\Users\dmohl\Documents\GitHub\FSharpWpfEmptyTemplate\VSIX\bin\Debug\FSharpWpfEmpty.vsix
+C:\Users\dmohl\Documents\GitHub\FSharpWpfEmptyTemplate\VSIX\bin\Debug\extension.vsixmanifest
+C:\Users\dmohl\Documents\GitHub\FSharpWpfEmptyTemplate\VSIX\bin\Debug\FsWpfEmptyTemplateWizard.dll
+C:\Users\dmohl\Documents\GitHub\FSharpWpfEmptyTemplate\VSIX\bin\Debug\NuGet.VisualStudio.dll
+C:\Users\dmohl\Documents\GitHub\FSharpWpfEmptyTemplate\VSIX\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\dmohl\Documents\GitHub\FSharpWpfEmptyTemplate\VSIX\bin\Debug\NuGet.Core.dll
+C:\Users\dmohl\Documents\GitHub\FSharpWpfEmptyTemplate\VSIX\bin\Debug\FsWpfEmptyTemplateWizard.pdb
+C:\Users\dmohl\Documents\GitHub\FSharpWpfEmptyTemplate\VSIX\bin\Debug\FsWpfEmptyTemplateWizard.xml
+C:\Users\dmohl\Documents\GitHub\FSharpWpfEmptyTemplate\VSIX\obj\Debug\VSIX.csprojResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\GitHub\FSharpWpfEmptyTemplate\VSIX\obj\Debug\FSharpWpfEmpty.dll
+C:\Users\dmohl\Documents\GitHub\FSharpWpfEmptyTemplate\VSIX\obj\Debug\FSharpWpfEmpty.pdb
+C:\Users\dmohl\Documents\GitHub\FSharpWpfEmptyTemplate\VSIX\obj\Debug\extension.vsixmanifest
